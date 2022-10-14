@@ -1,4 +1,4 @@
-![plot](../images/header_gif.gif)
+![plot](./images/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center"><b>A curious backend developer from Colombia</b></h3>
 <p></p>
