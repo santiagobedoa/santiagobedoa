@@ -3,13 +3,10 @@
 <h3 align="center"><b>A curious backend developer from Colombia</b></h3>
 <p></p>
 
-- 🔭 I’m currently working on **Cool projects!**
-
-- 📝 I regularly write articles on [https://medium.com/@santiagobedoa](https://medium.com/@santiagobedoa)
-
-- 💬 Ask me about **C / Python / Linux**
+I'm a passionate backend developer looking to implement and launch cool projects. I have been trained in different programming languages such as C, Python, and Javascript, gaining excellent problem-solving skills. Also, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, and strategy. This means that I not only understand the business value of a process but also the workflow and coding relate to it. I have the ability to sit with a customer, understand their desires, target the problem, and participate in the coding process behind it.
 
 - ⚡ Fun fact **If I like it, I will do it no matter what!**
+
 <p>&nbsp</p>
 
 <h3 align="left">Connect with me:</h3>
